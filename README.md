@@ -1,3 +1,11 @@
+
+Output screens (Android) and IOS is also running:
+
+![Screenshot_1718343023](https://github.com/sunil18Developer/rn-task-management/assets/90700088/9af91893-39ca-424d-8ee2-de1d1de84d27)
+![Screenshot_1718343033](https://github.com/sunil18Developer/rn-task-management/assets/90700088/36063ab7-35ab-498d-a8d0-d6724e848131)
+![Screenshot_1718343125](https://github.com/sunil18Developer/rn-task-management/assets/90700088/da677342-280b-488d-ad11-28b0766a82e4)
+![Screenshot_1718343130](https://github.com/sunil18Developer/rn-task-management/assets/90700088/519e39a9-2421-4df4-bb52-3dd8048f0190)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
